@@ -1,0 +1,18 @@
+TK admin:
+	admin@gmail.com
+	admin@123
+Tk test mua hàng:
+	vohuy2910@gmail.com
+	admin@123
+
+
+
+Thanh toán bằng ngân hàng  ATM online: chọn ngân hàng EXIMBANK
+ * Hình thức thanh toán: tùy chọn
+ * Họ tên, địa chỉ email, sđt, địa chỉ: giữ nguyên
+ * tiếp tục
+
+ * Số thẻ ATM: 9874563254178962
+ * Họ tên chủ thẻ: Nguyen Hue
+ * Ngày hết hạn: chọn tháng, năm > hiện tại
+ * Mã bảo mật: 123456
